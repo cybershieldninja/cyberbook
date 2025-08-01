@@ -30,8 +30,6 @@ mkdocs build
 
 This project is deployed using **[Cloudflare Pages](https://pages.cloudflare.com/)**.
 
-📖 **Live Site:** [https://cyberbook.pages.dev/](https://cyberbook.pages.dev/)
-
 ### 🛠 Deploy Instructions (for contributors)
 
 1. Push to the `main` branch (or the branch you've configured in Cloudflare Pages).
