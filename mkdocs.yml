@@ -1,0 +1,90 @@
+site_name: Cybersecurity & Cloud Engineering Series
+site_author: CyberShieldNinja
+
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/logo.ico
+  features:
+    - navigation.tabs
+    - navigation.footer
+    - navigation.expand
+    - content.code.annotate 
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference     
+  # features:
+  #   - navigation.tabs
+  #   - navigation.expand
+  #   - navigation.sections
+  #   - toc.integrate
+  #   - content.code.copy
+  #   - content.tabs.link  
+    # # - navigation.expand
+    # # - navigation.sections
+    #  - navigation.tabs
+    #  - navigation.tabs.sticky
+    #  - navigation.top
+    #  - navigation.instant
+    #  - navigation.instant.progress     
+    #  - toc.integrate
+    # # - content.code.copy
+    # # - content.tabs.link
+    #  - toc.follow
+    #  - toc.integrate
+# nav:
+#   - Home: index.md
+#   - Threat Analysis & Hunting: threat/index.md
+#       # - Introduction: threat/index.md
+#       # - 1. The Fundamentals of Threat Analysis: threat/01-Ch1.md
+#       # - 2. Tools and Technologies for Threat Hunting: threat/02-Ch2.md
+#   # - Cloud Security:
+#   #     - Overview: threat/index.md
+#   #     # - 1. Cloud Security Overview: cloud-security/01-overview.md
+#   #     # - 2. IAM Hardening: cloud-security/02-iam.md
+#   # - Terraform Security:
+#   #     - Overview: threat/index.md
+#   #     # - 1. Introduction to IaC: terraform-security/01-iac.md
+#   #     # - 2. Secrets Management: terraform-security/02-secrets.md
+
+# hide:
+#   - navigation
+#   - toc
+
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎
+  - codehilite
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.emoji
+  - attr_list
+copyright: Copyright &copy; 2025 CyberShieldNinja
+extra_css:
+  - css/extra.css
+  - css/hide-toc.css
+  - css/hide-sidebar.css
+extra:
+  generator: false
+
+plugins:
+   - search
+   - awesome-nav

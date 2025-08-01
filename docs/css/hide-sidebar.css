@@ -1,0 +1,17 @@
+/* Hide the left navigation sidebar */
+.md-sidebar--primary {
+  display: none !important;
+}
+
+/* Stretch main content to full width */
+.md-main__inner {
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 0 2rem !important;
+}
+
+/* Optional: fix content alignment on smaller screens */
+.md-content {
+  margin: 0 auto !important;
+}
