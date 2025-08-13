@@ -7,6 +7,7 @@ hide:
 
 Welcome to our multi-book series dedicated to professionals in cybersecurity, cloud architecture, and infrastructure engineering.
 
+              
 ## 🔍 [Threat Analysis & Hunting](threat/index.md)
 Threat hunting is a proactive approach in cybersecurity, focused on detecting threats that evade traditional security solutions. This chapter introduces core concepts, methodologies, and the value threat hunting brings to modern organizations.
 
@@ -14,6 +15,9 @@ Threat hunting is a proactive approach in cybersecurity, focused on detecting th
 
 ➡️ [Go to Book](threat/index.md)
 
+## [Cybersecurity](cyber/index.md)
+
+## [Vulnerability Management](vm/index.md)
 <!-- ---
 
 ## ☁️ Cloud Security Engineering
