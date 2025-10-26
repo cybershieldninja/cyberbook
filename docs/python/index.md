@@ -6,14 +6,15 @@ Welcome to the **Introduction to Python** course! This course is designed for st
 
 1. [Course Overview](#course-overview)
 2. [Learning Objectives](#learning-objectives)
-3. [Tutorial](./Tutorial/Introduction.md)
+3. [Tutorial](./Tutorial/01.Introduction.md)
+4. [FAQ](#faq)
+5. [Feedback](#feedback)
+
 <!-- 3. [Course Structure](#course-structure)
 4. [Prerequisites](#prerequisites)
 5. [Course Materials](#course-materials)
 6. [How to Access the Course](#how-to-access-the-course)
 7. [Support and Contact Information](#support-and-contact-information) -->
-4. [FAQ](#faq)
-5. [Feedback](#feedback)
 
 ## Course Overview
 
@@ -134,9 +135,11 @@ A: The course can be completed in approximately 4-6 weeks with 3-5 hours of stud
 
 ## Feedback
 
-We value your feedback! After completing the course, please fill out our feedback form to help us improve the content and experience for future students.
+We value your feedback! 
 
-[Provide Link to Feedback Form]
+<!-- After completing the course, please fill out our feedback form to help us improve the content and experience for future students.
+
+[Provide Link to Feedback Form] -->
 
 ---
 
