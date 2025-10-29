@@ -6,7 +6,7 @@ Welcome to the **Introduction to Python** course! This course is designed for st
 
 1. [Course Overview](#course-overview)
 2. [Learning Objectives](#learning-objectives)
-3. [Tutorial](./Tutorial/01.Introduction.md)
+3. [Tutorial](#)
 4. [FAQ](#faq)
 5. [Feedback](#feedback)
 

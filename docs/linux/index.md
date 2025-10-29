@@ -7,9 +7,10 @@ Welcome to the **Introduction to Linux** course! This course is designed for stu
 1. [Course Overview](#course-overview)
 2. [Learning Objectives](#learning-objectives)
 3. [Tutorial](./Tutorialshellscript/01.Introduction-to-Bash/01.What%20is%20Bash.md)
-4. [Course Structure](#)
-5. [FAQ](#faq)
-6. [Feedback](#feedback)
+4. [Course Structure](#course-structure)
+5. [Prerequisites](#prerequisites)
+6. [FAQ](#faq)
+7. [Feedback](#feedback)
 
 <!-- 3. [Course Structure](#course-structure)
 4. [Prerequisites](#prerequisites)
@@ -42,8 +43,32 @@ By the end of the course, you will be able to:
 - Install and manage software packages in Linux.
 - Understand and manage file permissions and user accounts.
 
-<!-- ## Course Structure
+## Course Structure
 
+### Module 1: Introduction to Linux
+
+- [What is Linux? An overview of Linux and its history](./01introduction-linux.md)
+- [Understanding Linux](./02linux-concept.md)
+- [What Is an Operating System? How We Use Linux Every Day?](./03everyday-linux.md)
+- [Linux versus Windows](./04Linux-vs-Windows.md)
+
+### Module 2: Linux Command Line & fundamentals
+
+- [Introduction to the command line interface (CLI)](./05linux-command-syntax.md)
+- [Basic commands: `ls`, `cd`, `pwd`, `mkdir`, `rmdir`, `touch`, `cp`, `mv`, `rm`](./06Basicmd.md)
+- [Files and Directory Permissions](./07filedirpermission.md)
+- [File Ownership Commands (chown, chgrp)](./08fileowner.md)
+- [Understanding file system hierarchy and structure](./09filesystem.md)
+- [Linux Help Commands](./10linuxhelp.md)
+
+## Prerequisites
+
+- **No prior Linux knowledge is required.**
+- A computer with internet access.
+- A willingness to learn and experiment with new technologies.
+- A virtual machine or a dual-boot setup with a Linux distribution (Ubuntu recommended).
+
+<!-- 
 The course is divided into 5 modules, each focused on a specific aspect of Linux. Each module includes interactive lessons, video tutorials, and exercises to reinforce your learning.
 
 ### Module 1: Introduction to Linux
