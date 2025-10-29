@@ -7,13 +7,17 @@ Welcome to the **Introduction to Linux** course! This course is designed for stu
 1. [Course Overview](#course-overview)
 2. [Learning Objectives](#learning-objectives)
 3. [Tutorial](./Tutorialshellscript/01.Introduction-to-Bash/01.What%20is%20Bash.md)
+4. [Course Structure](#)
+5. [FAQ](#faq)
+6. [Feedback](#feedback)
+
 <!-- 3. [Course Structure](#course-structure)
 4. [Prerequisites](#prerequisites)
 5. [Course Materials](#course-materials)
 6. [How to Access the Course](#how-to-access-the-course)
-7. [Support and Contact Information](#support-and-contact-information) -->
+7. [Support and Contact Information](#support-and-contact-information)
 4. [FAQ](#faq)
-5. [Feedback](#feedback)
+5. [Feedback](#feedback) -->
 
 ## Course Overview
 
